@@ -97,9 +97,6 @@ class WordsGraph:
     def shortest_path(self, source: str, target: str) -> Tuple[int, List[str]]:
         """
         If there is no path, return -1, []
-        :param source:
-        :param target:
-        :return:
         """
         _, predecessors = self.shortest_distance(source)
 
