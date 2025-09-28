@@ -12,4 +12,4 @@ It was not specified if the letters can be shuffled or not. My solution implemen
 
 
 # Execution
-The code is done using Python 3.13.7. To execute, simply run ``main.py``. ``numpy`` and ``tqdm`` librairie are used.
+The code is done using Python 3.13.7. To execute, simply run ``main.py``. ``numpy`` and ``tqdm`` librairies are used.
